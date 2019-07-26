@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-ecommerce/static/css/main.30263412.chunk.css",
-    "main.js": "/react-ecommerce/static/js/main.78b3a038.chunk.js",
-    "main.js.map": "/react-ecommerce/static/js/main.78b3a038.chunk.js.map",
-    "runtime~main.js": "/react-ecommerce/static/js/runtime~main.a12f2eed.js",
-    "runtime~main.js.map": "/react-ecommerce/static/js/runtime~main.a12f2eed.js.map",
-    "static/js/2.314a555c.chunk.js": "/react-ecommerce/static/js/2.314a555c.chunk.js",
-    "static/js/2.314a555c.chunk.js.map": "/react-ecommerce/static/js/2.314a555c.chunk.js.map",
-    "index.html": "/react-ecommerce/index.html",
-    "precache-manifest.959aed53cc0d11f29f8fa9cd3453f879.js": "/react-ecommerce/precache-manifest.959aed53cc0d11f29f8fa9cd3453f879.js",
-    "service-worker.js": "/react-ecommerce/service-worker.js",
-    "static/css/main.30263412.chunk.css.map": "/react-ecommerce/static/css/main.30263412.chunk.css.map"
+    "main.css": "/react-ecommerce-app/static/css/main.30263412.chunk.css",
+    "main.js": "/react-ecommerce-app/static/js/main.78b3a038.chunk.js",
+    "main.js.map": "/react-ecommerce-app/static/js/main.78b3a038.chunk.js.map",
+    "runtime~main.js": "/react-ecommerce-app/static/js/runtime~main.b0262846.js",
+    "runtime~main.js.map": "/react-ecommerce-app/static/js/runtime~main.b0262846.js.map",
+    "static/js/2.314a555c.chunk.js": "/react-ecommerce-app/static/js/2.314a555c.chunk.js",
+    "static/js/2.314a555c.chunk.js.map": "/react-ecommerce-app/static/js/2.314a555c.chunk.js.map",
+    "index.html": "/react-ecommerce-app/index.html",
+    "precache-manifest.e8787486a7e7030df4f87e6bdb504610.js": "/react-ecommerce-app/precache-manifest.e8787486a7e7030df4f87e6bdb504610.js",
+    "service-worker.js": "/react-ecommerce-app/service-worker.js",
+    "static/css/main.30263412.chunk.css.map": "/react-ecommerce-app/static/css/main.30263412.chunk.css.map"
   }
 }
