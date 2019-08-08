@@ -37,7 +37,7 @@ class Directory extends Component {
         {
           title: "mens",
           imageUrl:
-            "https://www.sccpre.cat/mypng/detail/539-5391154_different-occupations-man-silhouettes-vector-man-shopping-silhouette.png",
+            "https://p7.hiclipart.com/preview/599/497/144/silhouette-clip-art-business-man.jpg",
           size: "large",
           id: 5,
           linkUrl: "shop/mens"
